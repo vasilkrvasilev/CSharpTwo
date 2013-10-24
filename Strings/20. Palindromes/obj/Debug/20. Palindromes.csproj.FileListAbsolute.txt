@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\20. Palindromes\bin\Debug\_20.Palindromes.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\20. Palindromes\bin\Debug\_20.Palindromes.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\20. Palindromes\bin\Debug\_20.Palindromes.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\20. Palindromes\obj\Debug\_20.Palindromes.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\20. Palindromes\obj\Debug\_20.Palindromes.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\20. Palindromes\obj\Debug\20. Palindromes.csprojResolveAssemblyReference.cache

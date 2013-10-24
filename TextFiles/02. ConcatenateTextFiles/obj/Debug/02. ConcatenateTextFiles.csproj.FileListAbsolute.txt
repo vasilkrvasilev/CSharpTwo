@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\02. ConcatenateTextFiles\bin\Debug\_02.ConcatenateTextFiles.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\02. ConcatenateTextFiles\bin\Debug\_02.ConcatenateTextFiles.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\02. ConcatenateTextFiles\bin\Debug\_02.ConcatenateTextFiles.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\02. ConcatenateTextFiles\obj\Debug\_02.ConcatenateTextFiles.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\02. ConcatenateTextFiles\obj\Debug\_02.ConcatenateTextFiles.pdb

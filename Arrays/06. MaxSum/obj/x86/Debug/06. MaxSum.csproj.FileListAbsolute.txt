@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\06. MaxSum\bin\Debug\_06.MaxSum.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\06. MaxSum\bin\Debug\_06.MaxSum.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\06. MaxSum\obj\x86\Debug\_06.MaxSum.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\06. MaxSum\obj\x86\Debug\_06.MaxSum.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\06. MaxSum\obj\x86\Debug\06. MaxSum.csprojResolveAssemblyReference.cache

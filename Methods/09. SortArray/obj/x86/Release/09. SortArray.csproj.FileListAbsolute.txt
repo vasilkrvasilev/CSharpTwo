@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\09. SortArray\bin\Release\_09.SortArray.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\09. SortArray\bin\Release\_09.SortArray.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\09. SortArray\obj\x86\Release\_09.SortArray.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\09. SortArray\obj\x86\Release\_09.SortArray.pdb

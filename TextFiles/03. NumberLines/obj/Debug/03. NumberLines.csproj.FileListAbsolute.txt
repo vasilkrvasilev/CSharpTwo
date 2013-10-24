@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\03. NumberLines\bin\Debug\_03.NumberLines.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\03. NumberLines\bin\Debug\_03.NumberLines.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\03. NumberLines\bin\Debug\_03.NumberLines.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\03. NumberLines\obj\Debug\_03.NumberLines.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\03. NumberLines\obj\Debug\_03.NumberLines.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\03. NumberLines\obj\Debug\03. NumberLines.csprojResolveAssemblyReference.cache

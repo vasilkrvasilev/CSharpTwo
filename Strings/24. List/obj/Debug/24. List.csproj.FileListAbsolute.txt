@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\24. List\bin\Debug\_24.List.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\24. List\bin\Debug\_24.List.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\24. List\bin\Debug\_24.List.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\24. List\obj\Debug\24. List.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\24. List\obj\Debug\_24.List.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\24. List\obj\Debug\_24.List.pdb

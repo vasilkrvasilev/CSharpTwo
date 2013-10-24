@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\15. GenericMethods\bin\Release\_15.GenericMethods.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\15. GenericMethods\bin\Release\_15.GenericMethods.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\15. GenericMethods\obj\x86\Release\_15.GenericMethods.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\15. GenericMethods\obj\x86\Release\_15.GenericMethods.pdb

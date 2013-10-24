@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\20. Variation\bin\Release\_20.Variation.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\20. Variation\bin\Release\_20.Variation.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\20. Variation\obj\x86\Release\_20.Variation.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\20. Variation\obj\x86\Release\_20.Variation.pdb

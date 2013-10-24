@@ -1,0 +1,7 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\04. NumberFrequencyTests\obj\Release\04. NumberFrequencyTests.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\04. NumberFrequencyTests\bin\Release\_04.NumberFrequencyTests.dll
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\04. NumberFrequencyTests\bin\Release\_04.NumberFrequencyTests.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\04. NumberFrequencyTests\bin\Release\_04.NumberFrequency.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\04. NumberFrequencyTests\bin\Release\_04.NumberFrequency.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\04. NumberFrequencyTests\obj\Release\_04.NumberFrequencyTests.dll
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\04. NumberFrequencyTests\obj\Release\_04.NumberFrequencyTests.pdb

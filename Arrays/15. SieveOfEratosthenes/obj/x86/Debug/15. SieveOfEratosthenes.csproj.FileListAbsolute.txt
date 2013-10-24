@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\15. SieveOfEratosthenes\bin\Debug\_15.SieveOfEratosthenes.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\15. SieveOfEratosthenes\bin\Debug\_15.SieveOfEratosthenes.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\15. SieveOfEratosthenes\obj\x86\Debug\_15.SieveOfEratosthenes.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\15. SieveOfEratosthenes\obj\x86\Debug\_15.SieveOfEratosthenes.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\15. SieveOfEratosthenes\obj\x86\Debug\15. SieveOfEratosthenes.csprojResolveAssemblyReference.cache

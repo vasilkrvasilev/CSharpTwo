@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\22. WordFrequency\bin\Debug\_22.WordFrequency.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\22. WordFrequency\bin\Debug\_22.WordFrequency.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\22. WordFrequency\bin\Debug\_22.WordFrequency.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\22. WordFrequency\obj\Debug\_22.WordFrequency.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\22. WordFrequency\obj\Debug\_22.WordFrequency.pdb

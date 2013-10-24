@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\09. SortArray\bin\Debug\_09.SortArray.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\09. SortArray\bin\Debug\_09.SortArray.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\09. SortArray\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\09. SortArray\obj\x86\Debug\_09.SortArray.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\09. SortArray\obj\x86\Debug\_09.SortArray.pdb

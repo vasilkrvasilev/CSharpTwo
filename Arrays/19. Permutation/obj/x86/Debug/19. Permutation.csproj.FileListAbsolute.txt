@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\19. Permutation\bin\Debug\_19.Permutation.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\19. Permutation\bin\Debug\_19.Permutation.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\19. Permutation\obj\x86\Debug\_19.Permutation.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\19. Permutation\obj\x86\Debug\_19.Permutation.pdb

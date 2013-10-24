@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\03. LetterComparison\bin\Debug\_03.LetterComparison.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\03. LetterComparison\bin\Debug\_03.LetterComparison.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\03. LetterComparison\obj\x86\Debug\_03.LetterComparison.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\03. LetterComparison\obj\x86\Debug\_03.LetterComparison.pdb

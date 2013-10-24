@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExceptionHandling\04. DownloadFile\bin\Debug\_04.DownloadFile.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExceptionHandling\04. DownloadFile\bin\Debug\_04.DownloadFile.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExceptionHandling\04. DownloadFile\bin\Debug\_04.DownloadFile.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExceptionHandling\04. DownloadFile\obj\Debug\04. DownloadFile.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExceptionHandling\04. DownloadFile\obj\Debug\_04.DownloadFile.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExceptionHandling\04. DownloadFile\obj\Debug\_04.DownloadFile.pdb

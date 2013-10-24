@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\25. ExtractText\bin\Debug\_25.ExtractText.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\25. ExtractText\bin\Debug\_25.ExtractText.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\25. ExtractText\bin\Debug\_25.ExtractText.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\25. ExtractText\obj\Debug\25. ExtractText.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\25. ExtractText\obj\Debug\_25.ExtractText.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\25. ExtractText\obj\Debug\_25.ExtractText.pdb

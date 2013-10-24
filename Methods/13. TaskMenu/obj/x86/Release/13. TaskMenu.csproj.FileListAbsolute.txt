@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\13. TaskMenu\bin\Release\_13.TaskMenu.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\13. TaskMenu\bin\Release\_13.TaskMenu.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\13. TaskMenu\obj\x86\Release\_13.TaskMenu.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\13. TaskMenu\obj\x86\Release\_13.TaskMenu.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\13. TaskMenu\obj\x86\Release\13. TaskMenu.csprojResolveAssemblyReference.cache

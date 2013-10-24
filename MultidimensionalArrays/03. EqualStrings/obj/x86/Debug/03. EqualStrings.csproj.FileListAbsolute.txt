@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\03. EqualStrings\bin\Debug\_03.EqualStrings.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\03. EqualStrings\bin\Debug\_03.EqualStrings.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\03. EqualStrings\obj\x86\Debug\_03.EqualStrings.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\03. EqualStrings\obj\x86\Debug\_03.EqualStrings.pdb

@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\04. ElementSearch\bin\Debug\_04.ElementSearch.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\04. ElementSearch\bin\Debug\_04.ElementSearch.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\04. ElementSearch\obj\x86\Debug\_04.ElementSearch.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\04. ElementSearch\obj\x86\Debug\_04.ElementSearch.pdb

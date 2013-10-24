@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\05. HexToBinary\bin\Release\_05.HexToBinary.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\05. HexToBinary\bin\Release\_05.HexToBinary.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\05. HexToBinary\obj\x86\Release\_05.HexToBinary.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\05. HexToBinary\obj\x86\Release\_05.HexToBinary.pdb

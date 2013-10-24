@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\04. NumberFrequency\bin\Release\_04.NumberFrequency.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\04. NumberFrequency\bin\Release\_04.NumberFrequency.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\04. NumberFrequency\obj\x86\Release\_04.NumberFrequency.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\04. NumberFrequency\obj\x86\Release\_04.NumberFrequency.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\04. NumberFrequency\obj\x86\Release\04. NumberFrequency.csprojResolveAssemblyReference.cache

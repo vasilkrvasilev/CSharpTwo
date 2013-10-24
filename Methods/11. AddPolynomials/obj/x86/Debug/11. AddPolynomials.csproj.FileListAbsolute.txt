@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\11. AddPolynomials\bin\Debug\_11.AddPolynomials.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\11. AddPolynomials\bin\Debug\_11.AddPolynomials.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\11. AddPolynomials\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\11. AddPolynomials\obj\x86\Debug\_11.AddPolynomials.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\11. AddPolynomials\obj\x86\Debug\_11.AddPolynomials.pdb

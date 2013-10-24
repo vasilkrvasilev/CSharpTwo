@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\01. OddLinesRead\bin\Debug\_01.OddLinesRead.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\01. OddLinesRead\bin\Debug\_01.OddLinesRead.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\01. OddLinesRead\bin\Debug\_01.OddLinesRead.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\01. OddLinesRead\obj\Debug\01. OddLinesRead.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\01. OddLinesRead\obj\Debug\_01.OddLinesRead.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\01. OddLinesRead\obj\Debug\_01.OddLinesRead.pdb

@@ -1,0 +1,11 @@
+Read
+Odd
+Lines
+From
+A
+Text
+File
+Through
+StreamReader
+And
+ReadLine

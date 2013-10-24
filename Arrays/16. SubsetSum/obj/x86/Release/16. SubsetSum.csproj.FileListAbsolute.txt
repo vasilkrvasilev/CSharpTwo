@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\16. SubsetSum\bin\Release\_16.SubsetSum.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\16. SubsetSum\bin\Release\_16.SubsetSum.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\16. SubsetSum\obj\x86\Release\_16.SubsetSum.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\16. SubsetSum\obj\x86\Release\_16.SubsetSum.pdb

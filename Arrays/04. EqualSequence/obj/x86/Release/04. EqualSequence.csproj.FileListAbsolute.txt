@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\04. EqualSequence\bin\Release\_04.EqualSequence.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\04. EqualSequence\bin\Release\_04.EqualSequence.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\04. EqualSequence\obj\x86\Release\_04.EqualSequence.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\04. EqualSequence\obj\x86\Release\_04.EqualSequence.pdb

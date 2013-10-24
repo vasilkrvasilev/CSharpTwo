@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\04. HexToDecimal\bin\Debug\_04.HexToDecimal.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\04. HexToDecimal\bin\Debug\_04.HexToDecimal.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\04. HexToDecimal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\04. HexToDecimal\obj\x86\Debug\_04.HexToDecimal.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\04. HexToDecimal\obj\x86\Debug\_04.HexToDecimal.pdb

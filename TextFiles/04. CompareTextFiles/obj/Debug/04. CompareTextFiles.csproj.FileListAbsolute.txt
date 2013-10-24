@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\04. CompareTextFiles\bin\Debug\_04.CompareTextFiles.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\04. CompareTextFiles\bin\Debug\_04.CompareTextFiles.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\04. CompareTextFiles\bin\Debug\_04.CompareTextFiles.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\04. CompareTextFiles\obj\Debug\04. CompareTextFiles.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\04. CompareTextFiles\obj\Debug\_04.CompareTextFiles.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\04. CompareTextFiles\obj\Debug\_04.CompareTextFiles.pdb

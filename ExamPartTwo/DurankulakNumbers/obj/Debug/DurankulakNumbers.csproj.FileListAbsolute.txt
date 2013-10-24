@@ -1,0 +1,9 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExamPartTwo\DurankulakNumbers\bin\Debug\DurankulakNumbers.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExamPartTwo\DurankulakNumbers\bin\Debug\DurankulakNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExamPartTwo\DurankulakNumbers\bin\Debug\DurankulakNumbers.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExamPartTwo\DurankulakNumbers\obj\Debug\DurankulakNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExamPartTwo\DurankulakNumbers\obj\Debug\DurankulakNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExamPartTwo\DurankulakNumbers\obj\Debug\DurankulakNumbers.pdb
+C:\Users\Vasko\Documents\GitHub\CSharpTwo\ExamPartTwo\DurankulakNumbers\bin\Debug\DurankulakNumbers.exe.config
+C:\Users\Vasko\Documents\GitHub\CSharpTwo\ExamPartTwo\DurankulakNumbers\obj\Debug\DurankulakNumbers.exe
+C:\Users\Vasko\Documents\GitHub\CSharpTwo\ExamPartTwo\DurankulakNumbers\obj\Debug\DurankulakNumbers.pdb

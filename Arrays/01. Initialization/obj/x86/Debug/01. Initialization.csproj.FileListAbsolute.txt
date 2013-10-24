@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\01. Initialization\bin\Debug\_01.Initialization.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\01. Initialization\bin\Debug\_01.Initialization.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\01. Initialization\obj\x86\Debug\_01.Initialization.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\01. Initialization\obj\x86\Debug\_01.Initialization.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\01. Initialization\obj\x86\Debug\01. Initialization.csprojResolveAssemblyReference.cache

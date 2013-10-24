@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExceptionHandling\02. Interval\bin\Debug\_02.Interval.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExceptionHandling\02. Interval\bin\Debug\_02.Interval.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExceptionHandling\02. Interval\bin\Debug\_02.Interval.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExceptionHandling\02. Interval\obj\Debug\_02.Interval.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExceptionHandling\02. Interval\obj\Debug\_02.Interval.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExceptionHandling\02. Interval\obj\Debug\02. Interval.csprojResolveAssemblyReference.cache

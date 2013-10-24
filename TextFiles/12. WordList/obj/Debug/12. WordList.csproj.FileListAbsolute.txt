@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\12. WordList\bin\Debug\_12.WordList.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\12. WordList\bin\Debug\_12.WordList.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\12. WordList\bin\Debug\_12.WordList.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\12. WordList\obj\Debug\_12.WordList.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\12. WordList\obj\Debug\_12.WordList.pdb

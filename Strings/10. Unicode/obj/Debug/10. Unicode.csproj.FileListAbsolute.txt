@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\10. Unicode\bin\Debug\_10.Unicode.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\10. Unicode\bin\Debug\_10.Unicode.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\10. Unicode\bin\Debug\_10.Unicode.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\10. Unicode\obj\Debug\_10.Unicode.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\10. Unicode\obj\Debug\_10.Unicode.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\10. Unicode\obj\Debug\10. Unicode.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\09. ForbiddenWords\bin\Debug\_09.ForbiddenWords.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\09. ForbiddenWords\bin\Debug\_09.ForbiddenWords.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\09. ForbiddenWords\bin\Debug\_09.ForbiddenWords.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\09. ForbiddenWords\obj\Debug\09. ForbiddenWords.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\09. ForbiddenWords\obj\Debug\_09.ForbiddenWords.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\09. ForbiddenWords\obj\Debug\_09.ForbiddenWords.pdb

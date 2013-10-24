@@ -1,0 +1,7 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\01. HelloTests\bin\Release\_01.HelloTests.dll
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\01. HelloTests\bin\Release\_01.HelloTests.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\01. HelloTests\bin\Release\_01.Hello.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\01. HelloTests\bin\Release\_01.Hello.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\01. HelloTests\obj\Release\01. HelloTests.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\01. HelloTests\obj\Release\_01.HelloTests.dll
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\01. HelloTests\obj\Release\_01.HelloTests.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\06. FindBigger\bin\Release\_06.FindBigger.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\06. FindBigger\bin\Release\_06.FindBigger.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\06. FindBigger\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\06. FindBigger\obj\x86\Release\_06.FindBigger.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\06. FindBigger\obj\x86\Release\_06.FindBigger.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\03. LastDigitName\bin\Debug\_03.LastDigitName.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\03. LastDigitName\bin\Debug\_03.LastDigitName.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\03. LastDigitName\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\03. LastDigitName\obj\x86\Debug\_03.LastDigitName.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\03. LastDigitName\obj\x86\Debug\_03.LastDigitName.pdb

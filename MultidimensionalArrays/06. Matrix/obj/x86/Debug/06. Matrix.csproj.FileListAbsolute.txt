@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\06. Matrix\bin\Debug\_06.Matrix.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\06. Matrix\bin\Debug\_06.Matrix.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\06. Matrix\obj\x86\Debug\_06.Matrix.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\06. Matrix\obj\x86\Debug\_06.Matrix.pdb

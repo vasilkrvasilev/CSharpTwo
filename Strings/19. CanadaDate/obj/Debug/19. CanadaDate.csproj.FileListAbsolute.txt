@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\19. CanadaDate\bin\Debug\_19.CanadaDate.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\19. CanadaDate\bin\Debug\_19.CanadaDate.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\19. CanadaDate\bin\Debug\_19.CanadaDate.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\19. CanadaDate\obj\Debug\_19.CanadaDate.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\19. CanadaDate\obj\Debug\_19.CanadaDate.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\19. CanadaDate\obj\Debug\19. CanadaDate.csprojResolveAssemblyReference.cache

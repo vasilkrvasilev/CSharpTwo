@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\10. SequenceSum\bin\Release\_10.SequenceSum.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\10. SequenceSum\bin\Release\_10.SequenceSum.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\10. SequenceSum\obj\x86\Release\_10.SequenceSum.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\10. SequenceSum\obj\x86\Release\_10.SequenceSum.pdb

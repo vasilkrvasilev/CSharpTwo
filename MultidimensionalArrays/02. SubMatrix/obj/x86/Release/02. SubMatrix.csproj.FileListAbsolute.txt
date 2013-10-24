@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\02. SubMatrix\bin\Release\_02.SubMatrix.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\02. SubMatrix\bin\Release\_02.SubMatrix.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\02. SubMatrix\obj\x86\Release\_02.SubMatrix.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\02. SubMatrix\obj\x86\Release\_02.SubMatrix.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\02. SubMatrix\obj\x86\Release\02. SubMatrix.csprojResolveAssemblyReference.cache

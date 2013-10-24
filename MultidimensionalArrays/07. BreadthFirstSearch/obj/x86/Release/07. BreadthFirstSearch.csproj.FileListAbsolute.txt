@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\07. BreadthFirstSearch\bin\Release\_07.BreadthFirstSearch.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\07. BreadthFirstSearch\bin\Release\_07.BreadthFirstSearch.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\07. BreadthFirstSearch\obj\x86\Release\_07.BreadthFirstSearch.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\07. BreadthFirstSearch\obj\x86\Release\_07.BreadthFirstSearch.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\07. BreadthFirstSearch\obj\x86\Release\07. BreadthFirstSearch.csprojResolveAssemblyReference.cache

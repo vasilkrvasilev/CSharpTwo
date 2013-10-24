@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\05. ElementsSort\bin\Release\_05.ElementsSort.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\05. ElementsSort\bin\Release\_05.ElementsSort.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\05. ElementsSort\obj\x86\Release\_05.ElementsSort.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\05. ElementsSort\obj\x86\Release\_05.ElementsSort.pdb

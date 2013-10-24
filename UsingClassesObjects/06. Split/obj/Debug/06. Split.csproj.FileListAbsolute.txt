@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\06. Split\bin\Debug\_06.Split.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\06. Split\bin\Debug\_06.Split.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\06. Split\bin\Debug\_06.Split.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\06. Split\obj\Debug\_06.Split.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\06. Split\obj\Debug\_06.Split.pdb

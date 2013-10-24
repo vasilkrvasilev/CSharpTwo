@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\06. BinaryToHex\bin\Release\_06.BinaryToHex.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\06. BinaryToHex\bin\Release\_06.BinaryToHex.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\06. BinaryToHex\obj\x86\Release\_06.BinaryToHex.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\06. BinaryToHex\obj\x86\Release\_06.BinaryToHex.pdb

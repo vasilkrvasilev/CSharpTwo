@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\21. Combination\bin\Debug\_21.Combination.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\21. Combination\bin\Debug\_21.Combination.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\21. Combination\obj\x86\Debug\_21.Combination.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\21. Combination\obj\x86\Debug\_21.Combination.pdb

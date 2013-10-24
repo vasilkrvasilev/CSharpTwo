@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\14. Params\bin\Release\_14.Params.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\14. Params\bin\Release\_14.Params.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\14. Params\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\14. Params\obj\x86\Release\_14.Params.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\14. Params\obj\x86\Release\_14.Params.pdb

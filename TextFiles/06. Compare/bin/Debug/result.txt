@@ -1,0 +1,12 @@
+﻿The sorted elements are:
+dvesta
+ivancho
+plus
+text
+x
+The sorted elements are:
+x
+plus
+text
+dvesta
+ivancho

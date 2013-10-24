@@ -1,0 +1,2 @@
+﻿Equal lines are 7.
+Different lines are 4.

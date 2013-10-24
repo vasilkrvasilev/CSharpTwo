@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\06. BinaryToHex\bin\Debug\_06.BinaryToHex.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\06. BinaryToHex\bin\Debug\_06.BinaryToHex.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\06. BinaryToHex\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\06. BinaryToHex\obj\x86\Debug\_06.BinaryToHex.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\06. BinaryToHex\obj\x86\Debug\_06.BinaryToHex.pdb

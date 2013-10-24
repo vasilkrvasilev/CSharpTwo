@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\01. DecimalToBinary\bin\Release\_01.DecimalToBinary.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\01. DecimalToBinary\bin\Release\_01.DecimalToBinary.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\01. DecimalToBinary\obj\x86\Release\_01.DecimalToBinary.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\01. DecimalToBinary\obj\x86\Release\_01.DecimalToBinary.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\11. DeleteWords\bin\Debug\_11.DeleteWords.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\11. DeleteWords\bin\Debug\_11.DeleteWords.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\11. DeleteWords\bin\Debug\_11.DeleteWords.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\11. DeleteWords\obj\Debug\11. DeleteWords.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\11. DeleteWords\obj\Debug\_11.DeleteWords.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\11. DeleteWords\obj\Debug\_11.DeleteWords.pdb

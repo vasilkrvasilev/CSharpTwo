@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\08. NegativeNumbers\bin\Debug\_08.NegativeNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\08. NegativeNumbers\bin\Debug\_08.NegativeNumbers.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\08. NegativeNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\08. NegativeNumbers\obj\x86\Debug\_08.NegativeNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\08. NegativeNumbers\obj\x86\Debug\_08.NegativeNumbers.pdb

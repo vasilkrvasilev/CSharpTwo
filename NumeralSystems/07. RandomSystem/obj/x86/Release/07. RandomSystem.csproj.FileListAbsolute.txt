@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\07. RandomSystem\bin\Release\_07.RandomSystem.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\07. RandomSystem\bin\Release\_07.RandomSystem.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\07. RandomSystem\obj\x86\Release\_07.RandomSystem.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\07. RandomSystem\obj\x86\Release\_07.RandomSystem.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\07. ReverseNumber\bin\Release\_07.ReverseNumber.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\07. ReverseNumber\bin\Release\_07.ReverseNumber.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\07. ReverseNumber\obj\x86\Release\_07.ReverseNumber.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\07. ReverseNumber\obj\x86\Release\_07.ReverseNumber.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\07. ReverseNumber\obj\x86\Release\07. ReverseNumber.csprojResolveAssemblyReference.cache

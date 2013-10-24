@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\23. ConsecutiveLetters\bin\Debug\_23.ConsecutiveLetters.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\23. ConsecutiveLetters\bin\Debug\_23.ConsecutiveLetters.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\23. ConsecutiveLetters\bin\Debug\_23.ConsecutiveLetters.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\23. ConsecutiveLetters\obj\Debug\_23.ConsecutiveLetters.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\23. ConsecutiveLetters\obj\Debug\_23.ConsecutiveLetters.pdb

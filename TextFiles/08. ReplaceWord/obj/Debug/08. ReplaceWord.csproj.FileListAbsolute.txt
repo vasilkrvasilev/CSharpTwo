@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\08. ReplaceWord\bin\Debug\_08.ReplaceWord.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\08. ReplaceWord\bin\Debug\_08.ReplaceWord.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\08. ReplaceWord\bin\Debug\_08.ReplaceWord.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\08. ReplaceWord\obj\Debug\_08.ReplaceWord.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\08. ReplaceWord\obj\Debug\_08.ReplaceWord.pdb

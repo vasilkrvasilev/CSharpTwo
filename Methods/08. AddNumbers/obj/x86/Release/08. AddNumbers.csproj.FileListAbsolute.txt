@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\08. AddNumbers\bin\Release\_08.AddNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\08. AddNumbers\bin\Release\_08.AddNumbers.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\08. AddNumbers\obj\x86\Release\_08.AddNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\08. AddNumbers\obj\x86\Release\_08.AddNumbers.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\08. AddNumbers\obj\x86\Release\08. AddNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+﻿The submatrix with size 2 and max sum of its elements is:
+1 2 
+5 6 
+Their sum is: 14

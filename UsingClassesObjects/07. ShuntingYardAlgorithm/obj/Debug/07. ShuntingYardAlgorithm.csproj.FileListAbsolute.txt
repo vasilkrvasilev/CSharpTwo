@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\07. ShuntingYardAlgorithm\bin\Debug\_07.ShuntingYardAlgorithm.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\07. ShuntingYardAlgorithm\bin\Debug\_07.ShuntingYardAlgorithm.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\07. ShuntingYardAlgorithm\bin\Debug\_07.ShuntingYardAlgorithm.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\07. ShuntingYardAlgorithm\obj\Debug\07. ShuntingYardAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\07. ShuntingYardAlgorithm\obj\Debug\_07.ShuntingYardAlgorithm.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\07. ShuntingYardAlgorithm\obj\Debug\_07.ShuntingYardAlgorithm.pdb

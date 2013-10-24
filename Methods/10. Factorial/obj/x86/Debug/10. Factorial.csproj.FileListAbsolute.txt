@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\10. Factorial\bin\Debug\_10.Factorial.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\10. Factorial\bin\Debug\_10.Factorial.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\10. Factorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\10. Factorial\obj\x86\Debug\_10.Factorial.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\10. Factorial\obj\x86\Debug\_10.Factorial.pdb

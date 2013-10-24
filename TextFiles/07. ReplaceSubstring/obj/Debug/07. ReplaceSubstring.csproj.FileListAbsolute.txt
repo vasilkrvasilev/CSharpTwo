@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\07. ReplaceSubstring\bin\Debug\_07.ReplaceSubstring.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\07. ReplaceSubstring\bin\Debug\_07.ReplaceSubstring.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\07. ReplaceSubstring\bin\Debug\_07.ReplaceSubstring.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\07. ReplaceSubstring\obj\Debug\07. ReplaceSubstring.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\07. ReplaceSubstring\obj\Debug\_07.ReplaceSubstring.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\07. ReplaceSubstring\obj\Debug\_07.ReplaceSubstring.pdb

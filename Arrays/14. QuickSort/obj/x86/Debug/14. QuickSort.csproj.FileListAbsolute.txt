@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\14. QuickSort\bin\Debug\_14.QuickSort.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\14. QuickSort\bin\Debug\_14.QuickSort.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\14. QuickSort\obj\x86\Debug\_14.QuickSort.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\14. QuickSort\obj\x86\Debug\_14.QuickSort.pdb

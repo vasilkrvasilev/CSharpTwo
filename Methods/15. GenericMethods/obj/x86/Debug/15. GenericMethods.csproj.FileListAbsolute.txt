@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\15. GenericMethods\bin\Debug\_15.GenericMethods.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\15. GenericMethods\bin\Debug\_15.GenericMethods.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\15. GenericMethods\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\15. GenericMethods\obj\x86\Debug\_15.GenericMethods.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\15. GenericMethods\obj\x86\Debug\_15.GenericMethods.pdb

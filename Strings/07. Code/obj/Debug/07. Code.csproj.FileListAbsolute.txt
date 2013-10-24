@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\07. Code\bin\Debug\_07.Code.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\07. Code\bin\Debug\_07.Code.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\07. Code\bin\Debug\_07.Code.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\07. Code\obj\Debug\07. Code.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\07. Code\obj\Debug\_07.Code.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\07. Code\obj\Debug\_07.Code.pdb

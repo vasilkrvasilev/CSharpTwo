@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\02. MaxNumber\bin\Debug\_02.MaxNumber.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\02. MaxNumber\bin\Debug\_02.MaxNumber.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\02. MaxNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\02. MaxNumber\obj\x86\Debug\_02.MaxNumber.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\02. MaxNumber\obj\x86\Debug\_02.MaxNumber.pdb

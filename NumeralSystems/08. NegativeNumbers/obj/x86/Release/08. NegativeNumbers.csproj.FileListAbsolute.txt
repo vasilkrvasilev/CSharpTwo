@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\08. NegativeNumbers\bin\Release\_08.NegativeNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\08. NegativeNumbers\bin\Release\_08.NegativeNumbers.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\08. NegativeNumbers\obj\x86\Release\_08.NegativeNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\08. NegativeNumbers\obj\x86\Release\_08.NegativeNumbers.pdb

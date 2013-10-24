@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\11. Number\bin\Debug\_11.Number.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\11. Number\bin\Debug\_11.Number.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\11. Number\bin\Debug\_11.Number.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\11. Number\obj\Debug\_11.Number.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\11. Number\obj\Debug\_11.Number.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\11. Number\obj\Debug\11. Number.csprojResolveAssemblyReference.cache

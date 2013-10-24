@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\05. WorkDays\bin\Debug\_05.WorkDays.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\05. WorkDays\obj\Debug\05. WorkDays.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\05. WorkDays\bin\Debug\_05.WorkDays.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\05. WorkDays\bin\Debug\_05.WorkDays.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\05. WorkDays\obj\Debug\_05.WorkDays.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\05. WorkDays\obj\Debug\_05.WorkDays.pdb

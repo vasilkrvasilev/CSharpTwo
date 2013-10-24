@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\04. TriangleArea\bin\Debug\_04.TriangleArea.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\04. TriangleArea\bin\Debug\_04.TriangleArea.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\04. TriangleArea\bin\Debug\_04.TriangleArea.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\04. TriangleArea\obj\Debug\_04.TriangleArea.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\04. TriangleArea\obj\Debug\_04.TriangleArea.pdb

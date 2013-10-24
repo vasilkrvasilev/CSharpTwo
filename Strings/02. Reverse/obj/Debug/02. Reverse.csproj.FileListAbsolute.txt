@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\02. Reverse\bin\Debug\_02.Reverse.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\02. Reverse\bin\Debug\_02.Reverse.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\02. Reverse\bin\Debug\_02.Reverse.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\02. Reverse\obj\Debug\_02.Reverse.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\02. Reverse\obj\Debug\_02.Reverse.pdb

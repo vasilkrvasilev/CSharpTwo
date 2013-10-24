@@ -1,0 +1,11 @@
+﻿Line 1: Read
+Line 2: Odd
+Line 3: Lines
+Line 4: From
+Line 5: A
+Line 6: Text
+Line 7: File
+Line 8: Through
+Line 9: StreamReader
+Line 10: And
+Line 11: ReadLine

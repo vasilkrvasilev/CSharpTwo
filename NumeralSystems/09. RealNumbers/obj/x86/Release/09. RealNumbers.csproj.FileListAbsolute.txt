@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\09. RealNumbers\bin\Release\_09.RealNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\09. RealNumbers\bin\Release\_09.RealNumbers.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\09. RealNumbers\obj\x86\Release\_09.RealNumbers.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\09. RealNumbers\obj\x86\Release\_09.RealNumbers.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\09. RealNumbers\obj\x86\Release\09. RealNumbers.csprojResolveAssemblyReference.cache

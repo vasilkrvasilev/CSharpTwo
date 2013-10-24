@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\02. BinaryToDecimal\bin\Debug\_02.BinaryToDecimal.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\02. BinaryToDecimal\bin\Debug\_02.BinaryToDecimal.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\02. BinaryToDecimal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\02. BinaryToDecimal\obj\x86\Debug\_02.BinaryToDecimal.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\02. BinaryToDecimal\obj\x86\Debug\_02.BinaryToDecimal.pdb

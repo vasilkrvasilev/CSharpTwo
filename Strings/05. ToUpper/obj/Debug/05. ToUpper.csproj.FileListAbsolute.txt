@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\05. ToUpper\bin\Debug\_05.ToUpper.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\05. ToUpper\bin\Debug\_05.ToUpper.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\05. ToUpper\bin\Debug\_05.ToUpper.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\05. ToUpper\obj\Debug\_05.ToUpper.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\05. ToUpper\obj\Debug\_05.ToUpper.pdb

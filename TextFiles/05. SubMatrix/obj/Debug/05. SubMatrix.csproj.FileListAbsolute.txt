@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\05. SubMatrix\bin\Debug\_05.SubMatrix.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\05. SubMatrix\bin\Debug\_05.SubMatrix.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\05. SubMatrix\bin\Debug\_05.SubMatrix.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\05. SubMatrix\obj\Debug\05. SubMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\05. SubMatrix\obj\Debug\_05.SubMatrix.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\05. SubMatrix\obj\Debug\_05.SubMatrix.pdb

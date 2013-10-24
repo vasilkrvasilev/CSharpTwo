@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\04. Frequency\bin\Debug\_04.Frequency.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\04. Frequency\bin\Debug\_04.Frequency.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\04. Frequency\bin\Debug\_04.Frequency.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\04. Frequency\obj\Debug\04. Frequency.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\04. Frequency\obj\Debug\_04.Frequency.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\04. Frequency\obj\Debug\_04.Frequency.pdb

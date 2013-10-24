@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\03. EqualStrings\bin\Release\_03.EqualStrings.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\03. EqualStrings\bin\Release\_03.EqualStrings.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\03. EqualStrings\obj\x86\Release\_03.EqualStrings.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\03. EqualStrings\obj\x86\Release\_03.EqualStrings.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\MultidimensionalArrays\03. EqualStrings\obj\x86\Release\03. EqualStrings.csprojResolveAssemblyReference.cache

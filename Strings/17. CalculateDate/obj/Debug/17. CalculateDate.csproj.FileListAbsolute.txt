@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\17. CalculateDate\bin\Debug\_17.CalculateDate.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\17. CalculateDate\bin\Debug\_17.CalculateDate.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\17. CalculateDate\bin\Debug\_17.CalculateDate.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\17. CalculateDate\obj\Debug\17. CalculateDate.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\17. CalculateDate\obj\Debug\_17.CalculateDate.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\17. CalculateDate\obj\Debug\_17.CalculateDate.pdb

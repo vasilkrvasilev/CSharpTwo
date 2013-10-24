@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\10. ExtractWords\bin\Debug\_10.ExtractWords.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\10. ExtractWords\bin\Debug\_10.ExtractWords.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\10. ExtractWords\bin\Debug\_10.ExtractWords.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\10. ExtractWords\obj\Debug\10. ExtractWords.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\10. ExtractWords\obj\Debug\_10.ExtractWords.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\10. ExtractWords\obj\Debug\_10.ExtractWords.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\09. DeleteOddLines\bin\Debug\_09.DeleteOddLines.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\09. DeleteOddLines\bin\Debug\_09.DeleteOddLines.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\09. DeleteOddLines\bin\Debug\_09.DeleteOddLines.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\09. DeleteOddLines\obj\Debug\09. DeleteOddLines.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\09. DeleteOddLines\obj\Debug\_09.DeleteOddLines.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\09. DeleteOddLines\obj\Debug\_09.DeleteOddLines.pdb

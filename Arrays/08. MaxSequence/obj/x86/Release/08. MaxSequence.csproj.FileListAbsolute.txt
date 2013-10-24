@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\08. MaxSequence\bin\Release\_08.MaxSequence.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\08. MaxSequence\bin\Release\_08.MaxSequence.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\08. MaxSequence\obj\x86\Release\_08.MaxSequence.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\08. MaxSequence\obj\x86\Release\_08.MaxSequence.pdb

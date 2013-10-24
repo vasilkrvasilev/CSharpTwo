@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\03. Today\bin\Debug\_03.Today.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\03. Today\bin\Debug\_03.Today.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\03. Today\bin\Debug\_03.Today.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\03. Today\obj\Debug\_03.Today.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\03. Today\obj\Debug\_03.Today.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\UsingClassesObjects\03. Today\obj\Debug\03. Today.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\03. Brackets\bin\Debug\_03.Brackets.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\03. Brackets\bin\Debug\_03.Brackets.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\03. Brackets\bin\Debug\_03.Brackets.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\03. Brackets\obj\Debug\_03.Brackets.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\03. Brackets\obj\Debug\_03.Brackets.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\03. Brackets\obj\Debug\03. Brackets.csprojResolveAssemblyReference.cache

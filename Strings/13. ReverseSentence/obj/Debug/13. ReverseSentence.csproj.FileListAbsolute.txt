@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\13. ReverseSentence\bin\Debug\_13.ReverseSentence.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\13. ReverseSentence\bin\Debug\_13.ReverseSentence.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\13. ReverseSentence\bin\Debug\_13.ReverseSentence.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\13. ReverseSentence\obj\Debug\13. ReverseSentence.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\13. ReverseSentence\obj\Debug\_13.ReverseSentence.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\13. ReverseSentence\obj\Debug\_13.ReverseSentence.pdb

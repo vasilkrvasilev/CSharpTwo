@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExceptionHandling\03. ReadFile\bin\Debug\_03.ReadFile.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExceptionHandling\03. ReadFile\bin\Debug\_03.ReadFile.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExceptionHandling\03. ReadFile\bin\Debug\_03.ReadFile.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExceptionHandling\03. ReadFile\obj\Debug\03. ReadFile.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExceptionHandling\03. ReadFile\obj\Debug\_03.ReadFile.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExceptionHandling\03. ReadFile\obj\Debug\_03.ReadFile.pdb

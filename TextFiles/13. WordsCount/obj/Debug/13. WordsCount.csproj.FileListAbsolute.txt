@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\13. WordsCount\bin\Debug\_13.WordsCount.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\13. WordsCount\bin\Debug\_13.WordsCount.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\13. WordsCount\bin\Debug\_13.WordsCount.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\13. WordsCount\obj\Debug\_13.WordsCount.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\TextFiles\13. WordsCount\obj\Debug\_13.WordsCount.pdb

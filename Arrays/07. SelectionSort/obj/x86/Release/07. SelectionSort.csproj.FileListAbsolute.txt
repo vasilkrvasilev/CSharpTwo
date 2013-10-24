@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\07. SelectionSort\bin\Release\_07.SelectionSort.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\07. SelectionSort\bin\Release\_07.SelectionSort.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\07. SelectionSort\obj\x86\Release\_07.SelectionSort.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\07. SelectionSort\obj\x86\Release\_07.SelectionSort.pdb

@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\04. HexToDecimal\bin\Release\_04.HexToDecimal.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\04. HexToDecimal\bin\Release\_04.HexToDecimal.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\04. HexToDecimal\obj\x86\Release\_04.HexToDecimal.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\04. HexToDecimal\obj\x86\Release\_04.HexToDecimal.pdb

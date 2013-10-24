@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\21. LetterFrequency\bin\Debug\_21.LetterFrequency.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\21. LetterFrequency\bin\Debug\_21.LetterFrequency.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\21. LetterFrequency\bin\Debug\_21.LetterFrequency.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\21. LetterFrequency\obj\Debug\_21.LetterFrequency.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\21. LetterFrequency\obj\Debug\_21.LetterFrequency.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\08. Sentence\bin\Debug\_08.Sentence.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\08. Sentence\bin\Debug\_08.Sentence.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\08. Sentence\bin\Debug\_08.Sentence.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\08. Sentence\obj\Debug\08. Sentence.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\08. Sentence\obj\Debug\_08.Sentence.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\08. Sentence\obj\Debug\_08.Sentence.pdb

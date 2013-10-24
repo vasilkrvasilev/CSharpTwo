@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\12. LetterPosition\bin\Debug\_12.LetterPosition.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\12. LetterPosition\bin\Debug\_12.LetterPosition.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\12. LetterPosition\obj\x86\Debug\_12.LetterPosition.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\12. LetterPosition\obj\x86\Debug\_12.LetterPosition.pdb

@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\05. IncreasingSequence\bin\Debug\_05.IncreasingSequence.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\05. IncreasingSequence\bin\Debug\_05.IncreasingSequence.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\05. IncreasingSequence\obj\x86\Debug\_05.IncreasingSequence.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\05. IncreasingSequence\obj\x86\Debug\_05.IncreasingSequence.pdb

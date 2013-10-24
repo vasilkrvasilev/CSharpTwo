@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\04. EqualSequence\bin\Debug\_04.EqualSequence.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\04. EqualSequence\bin\Debug\_04.EqualSequence.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\04. EqualSequence\obj\x86\Debug\_04.EqualSequence.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\04. EqualSequence\obj\x86\Debug\_04.EqualSequence.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\04. EqualSequence\obj\x86\Debug\04. EqualSequence.csprojResolveAssemblyReference.cache

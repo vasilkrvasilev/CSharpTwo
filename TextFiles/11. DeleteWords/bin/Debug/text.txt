@@ -1,0 +1,1 @@
+Test to solve this test I used testarrays and testmatrixes. Firsttest I created a matrixtest with the same rowtests and columntests.

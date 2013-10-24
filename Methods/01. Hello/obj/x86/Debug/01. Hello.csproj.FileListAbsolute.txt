@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\01. Hello\bin\Debug\_01.Hello.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\01. Hello\bin\Debug\_01.Hello.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\01. Hello\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\01. Hello\obj\x86\Debug\_01.Hello.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\01. Hello\obj\x86\Debug\_01.Hello.pdb

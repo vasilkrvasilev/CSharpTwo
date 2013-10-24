@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\11. AddPolynomials\bin\Release\_11.AddPolynomials.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\11. AddPolynomials\bin\Release\_11.AddPolynomials.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\11. AddPolynomials\obj\x86\Release\_11.AddPolynomials.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\11. AddPolynomials\obj\x86\Release\_11.AddPolynomials.pdb

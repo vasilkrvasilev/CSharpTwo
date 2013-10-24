@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\17. FixedSubsetSum\bin\Debug\_17.FixedSubsetSum.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\17. FixedSubsetSum\bin\Debug\_17.FixedSubsetSum.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\17. FixedSubsetSum\obj\x86\Debug\_17.FixedSubsetSum.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\17. FixedSubsetSum\obj\x86\Debug\_17.FixedSubsetSum.pdb

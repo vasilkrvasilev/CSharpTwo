@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\01. Hello\bin\Release\_01.Hello.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\01. Hello\bin\Release\_01.Hello.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\01. Hello\obj\x86\Release\_01.Hello.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\01. Hello\obj\x86\Release\_01.Hello.pdb

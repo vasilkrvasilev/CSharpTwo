@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\02.Comparison\bin\Release\02.Comparison.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\02.Comparison\bin\Release\02.Comparison.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\02.Comparison\obj\x86\Release\02.Comparison.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\02.Comparison\obj\x86\Release\02.Comparison.pdb

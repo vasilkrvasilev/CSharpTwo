@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. SubMatrix", "02. SubMatrix\02. SubMatrix.csproj", "{FBA76A42-E711-44C0-8589-348F8E34EE49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. EqualStrings", "03. EqualStrings\03. EqualStrings.csproj", "{532C9B35-5947-481E-BAC1-EB77BD2E5D6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. ElementSearch", "04. ElementSearch\04. ElementSearch.csproj", "{17AEC698-46B4-46DC-9789-BD498DE1E4C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. ElementsSort", "05. ElementsSort\05. ElementsSort.csproj", "{15215D34-9FB0-44F0-AB42-C192CE0E7148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Matrix", "06. Matrix\06. Matrix.csproj", "{ED9839E0-8B52-4F96-8F2F-69A1C3016153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. BreadthFirstSearch", "07. BreadthFirstSearch\07. BreadthFirstSearch.csproj", "{3832DDB3-63EA-4164-B34D-24C948496296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. MatrixTypes", "01. MatrixTypes\01. MatrixTypes.csproj", "{23D24CFC-4924-4C5E-950B-1C7A4062E31A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBA76A42-E711-44C0-8589-348F8E34EE49}.Debug|x86.ActiveCfg = Debug|x86
+		{FBA76A42-E711-44C0-8589-348F8E34EE49}.Debug|x86.Build.0 = Debug|x86
+		{FBA76A42-E711-44C0-8589-348F8E34EE49}.Release|x86.ActiveCfg = Release|x86
+		{FBA76A42-E711-44C0-8589-348F8E34EE49}.Release|x86.Build.0 = Release|x86
+		{532C9B35-5947-481E-BAC1-EB77BD2E5D6A}.Debug|x86.ActiveCfg = Debug|x86
+		{532C9B35-5947-481E-BAC1-EB77BD2E5D6A}.Debug|x86.Build.0 = Debug|x86
+		{532C9B35-5947-481E-BAC1-EB77BD2E5D6A}.Release|x86.ActiveCfg = Release|x86
+		{532C9B35-5947-481E-BAC1-EB77BD2E5D6A}.Release|x86.Build.0 = Release|x86
+		{17AEC698-46B4-46DC-9789-BD498DE1E4C6}.Debug|x86.ActiveCfg = Debug|x86
+		{17AEC698-46B4-46DC-9789-BD498DE1E4C6}.Debug|x86.Build.0 = Debug|x86
+		{17AEC698-46B4-46DC-9789-BD498DE1E4C6}.Release|x86.ActiveCfg = Release|x86
+		{17AEC698-46B4-46DC-9789-BD498DE1E4C6}.Release|x86.Build.0 = Release|x86
+		{15215D34-9FB0-44F0-AB42-C192CE0E7148}.Debug|x86.ActiveCfg = Debug|x86
+		{15215D34-9FB0-44F0-AB42-C192CE0E7148}.Debug|x86.Build.0 = Debug|x86
+		{15215D34-9FB0-44F0-AB42-C192CE0E7148}.Release|x86.ActiveCfg = Release|x86
+		{15215D34-9FB0-44F0-AB42-C192CE0E7148}.Release|x86.Build.0 = Release|x86
+		{ED9839E0-8B52-4F96-8F2F-69A1C3016153}.Debug|x86.ActiveCfg = Debug|x86
+		{ED9839E0-8B52-4F96-8F2F-69A1C3016153}.Debug|x86.Build.0 = Debug|x86
+		{ED9839E0-8B52-4F96-8F2F-69A1C3016153}.Release|x86.ActiveCfg = Release|x86
+		{ED9839E0-8B52-4F96-8F2F-69A1C3016153}.Release|x86.Build.0 = Release|x86
+		{3832DDB3-63EA-4164-B34D-24C948496296}.Debug|x86.ActiveCfg = Debug|x86
+		{3832DDB3-63EA-4164-B34D-24C948496296}.Debug|x86.Build.0 = Debug|x86
+		{3832DDB3-63EA-4164-B34D-24C948496296}.Release|x86.ActiveCfg = Release|x86
+		{3832DDB3-63EA-4164-B34D-24C948496296}.Release|x86.Build.0 = Release|x86
+		{23D24CFC-4924-4C5E-950B-1C7A4062E31A}.Debug|x86.ActiveCfg = Debug|x86
+		{23D24CFC-4924-4C5E-950B-1C7A4062E31A}.Debug|x86.Build.0 = Debug|x86
+		{23D24CFC-4924-4C5E-950B-1C7A4062E31A}.Release|x86.ActiveCfg = Release|x86
+		{23D24CFC-4924-4C5E-950B-1C7A4062E31A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

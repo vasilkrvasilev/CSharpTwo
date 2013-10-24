@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\12. SubtractionMultiplication\bin\Release\_12.SubtractionMultiplication.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\12. SubtractionMultiplication\bin\Release\_12.SubtractionMultiplication.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\12. SubtractionMultiplication\obj\x86\Release\_12.SubtractionMultiplication.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\12. SubtractionMultiplication\obj\x86\Release\_12.SubtractionMultiplication.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Methods\12. SubtractionMultiplication\obj\x86\Release\12. SubtractionMultiplication.csprojResolveAssemblyReference.cache

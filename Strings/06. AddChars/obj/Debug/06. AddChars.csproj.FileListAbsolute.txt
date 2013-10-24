@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\06. AddChars\bin\Debug\_06.AddChars.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\06. AddChars\bin\Debug\_06.AddChars.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\06. AddChars\bin\Debug\_06.AddChars.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\06. AddChars\obj\Debug\06. AddChars.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\06. AddChars\obj\Debug\_06.AddChars.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\06. AddChars\obj\Debug\_06.AddChars.pdb

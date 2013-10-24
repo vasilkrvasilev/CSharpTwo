@@ -1,0 +1,5 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\03. DecimalToHex\bin\Debug\_03.DecimalToHex.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\03. DecimalToHex\bin\Debug\_03.DecimalToHex.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\03. DecimalToHex\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\03. DecimalToHex\obj\x86\Debug\_03.DecimalToHex.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\NumeralSystems\03. DecimalToHex\obj\x86\Debug\_03.DecimalToHex.pdb

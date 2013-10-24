@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\18. Email\bin\Debug\_18.Email.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\18. Email\bin\Debug\_18.Email.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\18. Email\bin\Debug\_18.Email.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\18. Email\obj\Debug\18. Email.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\18. Email\obj\Debug\_18.Email.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\18. Email\obj\Debug\_18.Email.pdb

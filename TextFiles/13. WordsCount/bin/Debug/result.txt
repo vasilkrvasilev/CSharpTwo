@@ -1,0 +1,4 @@
+﻿Word "a" is repeated 2 times
+Word "d" is repeated 2 times
+Word "g
+" is repeated 0 times

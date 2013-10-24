@@ -1,0 +1,4 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\06. MaxSum\bin\Release\_06.MaxSum.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\06. MaxSum\bin\Release\_06.MaxSum.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\06. MaxSum\obj\x86\Release\_06.MaxSum.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Arrays\06. MaxSum\obj\x86\Release\_06.MaxSum.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\12. URLAddress\bin\Debug\_12.URLAddress.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\12. URLAddress\bin\Debug\_12.URLAddress.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\12. URLAddress\bin\Debug\_12.URLAddress.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\12. URLAddress\obj\Debug\12. URLAddress.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\12. URLAddress\obj\Debug\_12.URLAddress.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\12. URLAddress\obj\Debug\_12.URLAddress.pdb

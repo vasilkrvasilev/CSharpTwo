@@ -1,0 +1,1 @@
+﻿to solve I used array and create number of rows and columns

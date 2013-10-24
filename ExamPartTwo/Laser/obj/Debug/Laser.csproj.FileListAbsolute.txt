@@ -1,0 +1,9 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExamPartTwo\Laser\bin\Debug\Laser.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExamPartTwo\Laser\bin\Debug\Laser.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExamPartTwo\Laser\bin\Debug\Laser.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExamPartTwo\Laser\obj\Debug\Laser.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExamPartTwo\Laser\obj\Debug\Laser.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\ExamPartTwo\Laser\obj\Debug\Laser.pdb
+C:\Users\Vasko\Documents\GitHub\CSharpTwo\ExamPartTwo\Laser\bin\Debug\Laser.exe.config
+C:\Users\Vasko\Documents\GitHub\CSharpTwo\ExamPartTwo\Laser\obj\Debug\Laser.exe
+C:\Users\Vasko\Documents\GitHub\CSharpTwo\ExamPartTwo\Laser\obj\Debug\Laser.pdb

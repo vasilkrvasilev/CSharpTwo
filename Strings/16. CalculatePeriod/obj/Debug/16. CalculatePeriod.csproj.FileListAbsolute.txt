@@ -1,0 +1,6 @@
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\16. CalculatePeriod\bin\Debug\_16.CalculatePeriod.exe.config
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\16. CalculatePeriod\bin\Debug\_16.CalculatePeriod.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\16. CalculatePeriod\bin\Debug\_16.CalculatePeriod.pdb
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\16. CalculatePeriod\obj\Debug\16. CalculatePeriod.csprojResolveAssemblyReference.cache
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\16. CalculatePeriod\obj\Debug\_16.CalculatePeriod.exe
+C:\Users\Vasko\Desktop\ProjectsC#\CSharpTwo\Strings\16. CalculatePeriod\obj\Debug\_16.CalculatePeriod.pdb
